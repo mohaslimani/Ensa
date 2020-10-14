@@ -10,3 +10,6 @@ calculer le quotient et le reste de la division euclidienne de deux nombres enti
 tester si un nombre entier est divisible par un autre,
 tester si un nombre est premier, 
 calculer la puissance nème d’un nombre entier.
+
+
+[u need to handle the memory leak]
